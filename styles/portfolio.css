@@ -196,6 +196,12 @@ banner-title {
 
 .download-cv{
     text-align: center;
+    margin-top: 50px;
+}
+
+/*Footer style */
+footer{
+    display: flex;
 }
 
 
